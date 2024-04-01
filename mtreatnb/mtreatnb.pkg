@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'mtreatnb': Maximum simulated likelihood estimation of a negative binomial regression model with multinomial endogenous treatment Use mtreatnb With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f mmlogit_lf.ado
+f mmlogit_lf.mo
+f mtreatnb.ado
+f mtreatnb.hlp
+f mtreatnb_lf.ado
+f mtreatnb_lf.mo

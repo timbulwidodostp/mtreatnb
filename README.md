@@ -5,6 +5,8 @@ Multinomial treatment effects of a negative binomial regression model Use mtreat
 
 Multinomial treatment-effects NB regression Use mtreatnb With STATA 18
 
+https://www.youtube.com/watch?v=vw-iHoKMbNo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
